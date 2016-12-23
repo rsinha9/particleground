@@ -1,0 +1,15 @@
+{
+  "name": "particleground",
+  "version": "1.0.0",
+  "description": "Particleground ==============",
+  "main": "jquery.particleground.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rsinha9/particleground.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/rsinha9/particleground/issues"
+  },
+  "homepage": "https://github.com/rsinha9/particleground#readme"
+}
