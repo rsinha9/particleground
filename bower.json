@@ -1,0 +1,18 @@
+{
+  "name": "particleground",
+  "description": "Particleground ==============",
+  "main": "jquery.particleground.js",
+  "authors": [
+    "Rohit Sinha <rohit@therrsgroup.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/rsinha9/particleground",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
